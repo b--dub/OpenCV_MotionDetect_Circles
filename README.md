@@ -9,5 +9,7 @@ As I said the repository is formated to VC++2010 but you will need to have the O
 
 I have another version of this program that I am still working on that incorporates the SDL library for sprite animation (to replace the simple circles) and layered sounds.  I will try to remember to post it as well once I get a chance to get back to it.  
 
+
 Demo Video
+
 [![Video Demo](http://i1.ytimg.com/vi/J1GIgTklRj4/3.jpg?time=1383977956396)](http://www.youtube.com/watch?v=J1GIgTklRj4)
